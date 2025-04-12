@@ -1,1 +1,2 @@
 Content of b.txt
+additional content for b.txt
