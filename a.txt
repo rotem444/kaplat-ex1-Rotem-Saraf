@@ -1,1 +1,2 @@
 Content of a.txt
+another line
